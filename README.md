@@ -1,7 +1,6 @@
 
 
 <!-- toc -->
-Prueba EDU
 
 - [CakePHP Sample App on OpenShift](#cakephp-sample-app-on-openshift)
   * [OpenShift Considerations](#openshift-considerations)
